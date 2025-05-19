@@ -25,7 +25,7 @@ s3voting/
 
 1. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 2. Set up environment variables:
@@ -35,7 +35,7 @@ cp .env.example .env
 
 3. Run the development server:
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Architecture
